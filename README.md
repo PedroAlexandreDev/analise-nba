@@ -51,3 +51,5 @@ Os dados foram utilizados a partir de um arquivo CSV com informações como:
 ```python
 import pandas as pd
 df = pd.read_csv("nba_players.csv")  # substitua pelo nome do seu arquivo
+```
+feito por pedro alexandre
