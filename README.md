@@ -84,7 +84,8 @@ pip install pandas matplotlib seaborn
 
     Criar dashboard completo com filtros
 
-👨‍💻 Autor
+
+## 👨‍💻 Autor
 
 Desenvolvido por pedro alexandre.
 Este projeto é ideal para compor portfólio de análise de dados com Python, focado em visualização e insights a partir de dados reais do esporte.
